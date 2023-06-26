@@ -1,1 +1,52 @@
 /*  your css code here. If applicable */
+.box{
+   
+   background-color: rgb(30, 30, 213);
+   height:100%;
+}
+.news{
+    background: rgb(10, 10, 10);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.news h2{
+    color:white;
+   
+}
+
+.news3{
+    
+    display:flex;
+    gap:1px;
+    width:100%;
+    padding:0px 10px;
+
+
+}
+.news2{
+    background-color: white;
+    width:100%;
+   
+}
+
+.news .img{
+    height: 50px;
+}
+
+.news3 .center{
+    display:flex;
+    justify-content: center;
+    
+}
+.news2 .para1{
+
+padding:0px 140px;
+
+}
+.news2 .para{
+    padding:0px 30px;
+}
+.news2{
+  margin:0px 0px 2px;
+}
